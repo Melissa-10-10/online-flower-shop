@@ -1,0 +1,9 @@
+.git
+git
+target
+frontend
+node_modules
+*.log
+*.txt
+.env
+.env.*
